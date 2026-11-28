@@ -1,6 +1,6 @@
 # M500 Program Amplifier · Amplifiers
 
-Ward-Beck Systems M500. Wiki page: [M500 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M500.html)
+Ward-Beck Systems M500. Wiki page: [M500 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M500-Program-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
